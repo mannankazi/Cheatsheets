@@ -100,7 +100,6 @@ Your location:  /home/MannanKazi/Documents
                 └───────────────────── The root
 
 ```
-![file-permission-syntax-explained](https://github.com/user-attachments/assets/ea99c0e3-f9bb-443d-81b9-96fe33465642)
 
 ---
 
@@ -203,6 +202,8 @@ r = read (4)     ─ Can read/view the file
 w = write (2)    ─ Can modify/delete the file
 x = execute (1)  ─ Can run the file (for programs)
 ```
+![file-permission-syntax-explained](https://github.com/user-attachments/assets/ea99c0e3-f9bb-443d-81b9-96fe33465642)
+
 
 ### 🔢 Quick Permission Math
 
