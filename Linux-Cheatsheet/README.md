@@ -98,9 +98,9 @@ Your location:  /home/MannanKazi/Documents
                 |    |    └─────────── Inside this
                 |    └──────────────── Inside this
                 └───────────────────── The root
-![file-permission-syntax-explained](https://github.com/user-attachments/assets/ea99c0e3-f9bb-443d-81b9-96fe33465642)
 
 ```
+![file-permission-syntax-explained](https://github.com/user-attachments/assets/ea99c0e3-f9bb-443d-81b9-96fe33465642)
 
 ---
 
